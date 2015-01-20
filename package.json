@@ -1,6 +1,6 @@
 {
   "name": "nk-css-utils",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CSS utils",
   "main": "index.css",
   "style": "index.css",
