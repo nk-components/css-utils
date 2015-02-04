@@ -14,12 +14,12 @@
   ],
   "license": "MIT",
   "author": "Antoine Lehurt <code@kewah.com> (http://kewah.com/)",
-  "homepage": "https://github.com/kewah/css-utils",
+  "homepage": "https://github.com/nk-components/css-utils",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kewah/css-utils"
+    "url": "https://github.com/nk-components/css-utils"
   },
   "bugs": {
-    "url": "https://github.com/kewah/css-utils/issues"
+    "url": "https://github.com/nk-components/css-utils/issues"
   }
 }
