@@ -140,7 +140,7 @@
 }
 
 
-/* Other
+/* Helpers
    ========================================================================== */
 
 /*
@@ -181,7 +181,6 @@
   Reset button
 */
 .u-resetBtn {
-  outline: none;
   border: none;
   margin: 0;
   padding: 0;
@@ -208,4 +207,8 @@
 .u-resetBtn::-moz-focus-inner {
   border: 0;
   padding: 0;
+}
+
+.u-resestBtn--withoutOutline {
+  outline: none;
 }
